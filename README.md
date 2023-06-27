@@ -2,6 +2,7 @@
 Progetto svolto per l'esame di Basi Di Dati (Laurea Informatica)
 ---------------------------------------------------------------------------------
 TRACCIA
+
 Si vuole sviluppare un’applicazione ideata per tener traccia delle serie tv e film visti. 
 Ogni utente per poter creare un proprio account dovrà fornire il proprio nome, cognome, nome utente, indirizzo email e password. 
 Ogni account appena creato avrà un catalogo vuoto di titoli, che successivamente potrà essere riempito. 
